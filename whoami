@@ -4,4 +4,9 @@ in develop
 after R1.1 in develop
 -----------------------
 myFeature
+<<<<<<< HEAD
 myFeature2
+=======
+release 95
+
+>>>>>>> release/93
